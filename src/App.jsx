@@ -1,3 +1,5 @@
+import { useState } from "react"
+
 function App() {
   const menus = [
     {id: 1, name: "カレー", category: "ご飯"},
